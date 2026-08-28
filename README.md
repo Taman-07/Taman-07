@@ -5,35 +5,24 @@
 </h1>
 
 <p align="center">
-
-<b>Building • Learning • Creating</b>
-
+  <b>Building • Learning • Creating</b>
 </p>
 
 <h2 align="center">ABOUT ME</h2>
 
 <p align="center">
-
-I'm a <b>B.Tech Computer Science & Engineering (AI & ML)</b> student
-
-passionate about technology, problem solving, and building real-world applications.
-
+  I'm a <b>B.Tech Computer Science & Engineering (AI & ML)</b> student
+  passionate about technology, problem solving, and building real-world applications.
 </p>
 
 <p align="center">
-
-I enjoy developing <b>full-stack web applications</b> and solving problems using
-
-<b>Data Structures & Algorithms</b>.
-
+  I enjoy developing <b>full-stack web applications</b> and solving problems using
+  <b>Data Structures & Algorithms</b>.
 </p>
 
 <p align="center">
-
-I'm also exploring <b>Artificial Intelligence, Machine Learning, Computer Vision,
-
-and Deep Learning</b>.
-
+  I'm also exploring <b>Artificial Intelligence, Machine Learning, Computer Vision,
+  and Deep Learning</b>.
 </p>
 
 ---
@@ -59,7 +48,7 @@ A YouTube-inspired web streaming platform designed to provide a smooth and inter
 
 <p>
   <a href="https://github.com/Taman-07/Web-Streaming">
-    <img src="https://img.shields.io/badge/🚀%20VIEW%20PROJECT-FF4B4B?style=for-the-badge&labelColor=1F1F1F" />
+    <img src="https://img.shields.io/badge/%20VIEW%20PROJECT-FF4B4B?style=for-the-badge&labelColor=1F1F1F" />
   </a>
 </p>
 
@@ -82,7 +71,7 @@ A full-stack platform that helps developers discover, connect, and interact with
 
 <p>
   <a href="https://github.com/Taman-07/DevTinder_frontend">
-    <img src="https://img.shields.io/badge/🤝%20VIEW%20PROJECT-FF4B4B?style=for-the-badge&labelColor=1F1F1F" />
+    <img src="https://img.shields.io/badge/%20VIEW%20PROJECT-FF4B4B?style=for-the-badge&labelColor=1F1F1F" />
   </a>
 </p>
 
@@ -105,7 +94,7 @@ An interactive dashboard for monitoring and visualizing data through dynamic cha
 
 <p>
   <a href="https://github.com/Taman-07/Real_Time_Analytics_Dashboard">
-    <img src="https://img.shields.io/badge/📊%20VIEW%20PROJECT-FF4B4B?style=for-the-badge&labelColor=1F1F1F" />
+    <img src="https://img.shields.io/badge/%20VIEW%20PROJECT-FF4B4B?style=for-the-badge&labelColor=1F1F1F" />
   </a>
 </p>
 
@@ -128,7 +117,7 @@ A personal finance application designed to help users track expenses, understand
 
 <p>
   <a href="https://github.com/Taman-07/Nivesh-Project">
-    <img src="https://img.shields.io/badge/💰%20VIEW%20PROJECT-FF4B4B?style=for-the-badge&labelColor=1F1F1F" />
+    <img src="https://img.shields.io/badge/%20VIEW%20PROJECT-FF4B4B?style=for-the-badge&labelColor=1F1F1F" />
   </a>
 </p>
 
@@ -201,7 +190,5 @@ Thanks for visiting my profile!
 </h3>
 
 <p align="center">
-
-<i>Keep learning • Keep building • Keep growing</i>
-
+  <i>Keep learning • Keep building • Keep growing</i>
 </p>
