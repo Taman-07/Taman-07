@@ -38,75 +38,97 @@ and Deep Learning</b>.
 
 ---
 
-<h2 align="center">🚀 FEATURED PROJECTS</h2>
+<h2 align="center">FEATURED PROJECTS</h2>
 
-<h3>01 • 🎬 Web Streaming</h3>
-
-<p>
-  <b>YouTube-inspired web streaming platform</b>
-</p>
+<h3>01 • Web Streaming</h3>
 
 A YouTube-inspired web streaming platform designed to provide a smooth and interactive video browsing experience.
 
-**Tech Stack:** React • JavaScript • CSS • Node.js • Express • MongoDB
+<p>
+  <b>Tech Stack:</b>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
 <p>
   <a href="https://github.com/Taman-07/Web-Streaming">
-    <img src="https://img.shields.io/badge/🚀%20VIEW%20PROJECT-FF4B4B?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🚀%20VIEW%20PROJECT-FF4B4B?style=for-the-badge&labelColor=1F1F1F" />
   </a>
 </p>
 
 ---
 
-<h3>02 • 🤝 Pair-Up</h3>
-
-<p>
-  <b>Developer networking and connection platform</b>
-</p>
+<h3>02 • Pair-Up</h3>
 
 A full-stack platform that helps developers discover, connect, and interact with other developers.
 
-**Tech Stack:** React • Node.js • Express • MongoDB
+<p>
+  <b>Tech Stack:</b>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
 <p>
   <a href="https://github.com/Taman-07/DevTinder_frontend">
-    <img src="https://img.shields.io/badge/🤝%20VIEW%20PROJECT-FF4B4B?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🤝%20VIEW%20PROJECT-FF4B4B?style=for-the-badge&labelColor=1F1F1F" />
   </a>
 </p>
 
 ---
 
-<h3>03 • 📊 Real-Time Analytics Dashboard</h3>
-
-<p>
-  <b>Interactive data visualization and analytics dashboard</b>
-</p>
+<h3>03 • Real-Time Analytics Dashboard</h3>
 
 An interactive dashboard for monitoring and visualizing data through dynamic charts, metrics, and analytics.
 
-**Tech Stack:** React • JavaScript • Node.js • APIs
+<p>
+  <b>Tech Stack:</b>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIs-FF4B4B?style=for-the-badge&logoColor=white" />
+</p>
 
 <p>
   <a href="https://github.com/Taman-07/Real_Time_Analytics_Dashboard">
-    <img src="https://img.shields.io/badge/📊%20VIEW%20PROJECT-FF4B4B?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/📊%20VIEW%20PROJECT-FF4B4B?style=for-the-badge&labelColor=1F1F1F" />
   </a>
 </p>
 
 ---
 
-<h3>04 • 💰 Nivesh</h3>
-
-<p>
-  <b>Personal finance and expense management application</b>
-</p>
+<h3>04 • Nivesh</h3>
 
 A personal finance application designed to help users track expenses, understand spending habits, and manage their finances more effectively.
 
-**Tech Stack:** React • JavaScript • Node.js • MongoDB
+<p>
+  <b>Tech Stack:</b>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
 <p>
   <a href="https://github.com/Taman-07/Nivesh-Project">
-    <img src="https://img.shields.io/badge/💰%20VIEW%20PROJECT-FF4B4B?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/💰%20VIEW%20PROJECT-FF4B4B?style=for-the-badge&labelColor=1F1F1F" />
   </a>
 </p>
 
@@ -183,4 +205,3 @@ Thanks for visiting my profile!
 <i>Keep learning • Keep building • Keep growing</i>
 
 </p>
-
