@@ -6,14 +6,6 @@
   <b>Building • Learning • Creating</b>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Taman-07">GitHub</a>
-  &nbsp; • &nbsp;
-  <a href="mailto:tamank@gmail.com">Email</a>
-</p>
-
----
-
 <h2 align="center">ABOUT ME</h2>
 
 <p align="center">
@@ -136,31 +128,6 @@ A personal finance application designed to help users track expenses, understand
 
 ---
 
-<h2 align="center">CURRENTLY LEARNING</h2>
-
-<p align="center">
-  <b>Data Structures & Algorithms</b>
-  <br>
-  Machine Learning • Deep Learning • Computer Vision
-  <br>
-  Full-Stack Development
-</p>
-
----
-
-<h2 align="center">LET'S CONNECT</h2>
-
-<p align="center">
-  <a href="https://github.com/Taman-07">
-    <b>GitHub</b>
-  </a>
-  &nbsp; • &nbsp;
-  <a href="mailto:tamank@gmail.com">
-    <b>Email</b>
-  </a>
-</p>
-
----
 
 <h3 align="center">
   Thanks for visiting my profile!
