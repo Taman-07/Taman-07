@@ -1,12 +1,20 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FF4B4B&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Tamanjot+%F0%9F%91%8B;AI%2FML+Student+%F0%9F%A4%96" />
-</h1>
+<div align="center">
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=3000&pause=1000&color=FF4B4B&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Tamanjot+%F0%9F%91%8B;AI%2FML+Student+%7C+Developer;Building+Ideas+Into+Reality" />
+
+<br>
+
+<h3>Computer Science & Engineering — AI & ML</h3>
+
+<p>
   <b>Building • Learning • Creating</b>
 </p>
 
-<h2 align="center">ABOUT ME</h2>
+</div>
+
+---
+
+<h1 align="center">About Me</h1>
 
 <p align="center">
   I'm a <b>B.Tech Computer Science & Engineering (AI & ML)</b> student
@@ -19,120 +27,161 @@
 </p>
 
 <p align="center">
-  I'm also exploring <b>Artificial Intelligence, Machine Learning, Computer Vision,
-  and Deep Learning</b>.
+  I'm passionate about <b>Artificial Intelligence, Machine Learning,
+  Computer Vision, and Deep Learning</b>.
 </p>
 
----
-
-<h2 align="center">FEATURED PROJECTS</h2>
-
-<h3>01 • Web Streaming</h3>
-
-A YouTube-inspired web streaming platform designed to provide a smooth and interactive video browsing experience.
-
-**Tech Stack:** React • JavaScript • CSS • Node.js • Express • MongoDB
-
-<p>
-  <a href="https://github.com/Taman-07/Web-Streaming">
-    <b>View Project →</b>
-  </a>
+<p align="center">
+  Currently learning, experimenting, and building projects that help me
+  grow as a developer.
 </p>
 
----
+<br>
 
-<h3>02 • Pair-Up</h3>
+<h1 align="center">Featured Projects</h1>
+
+<table>
+<tr>
+<td width="50%">
+
+<h2>01 · Web Streaming</h2>
+
+A YouTube-inspired web streaming platform focused on providing a smooth and interactive browsing experience.
+
+<br>
+
+<b>Tech Stack</b>
+
+<br><br>
+
+<code>React</code> <code>JavaScript</code> <code>CSS</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
+
+<br><br>
+
+<a href="https://github.com/Taman-07/Web-Streaming">
+  <b>→ VIEW PROJECT</b>
+</a>
+
+</td>
+
+<td width="50%">
+
+<h2>02 · Pair-Up</h2>
 
 A full-stack platform that helps developers discover, connect, and interact with other developers.
 
-**Tech Stack:** React • Node.js • Express • MongoDB
+<br>
 
-<p>
-  <a href="https://github.com/Taman-07/DevTinder_frontend">
-    <b>View Project →</b>
-  </a>
+<b>Tech Stack</b>
+
+<br><br>
+
+<code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
+
+<br><br>
+
+<a href="https://github.com/Taman-07/DevTinder_frontend">
+  <b>→ VIEW PROJECT</b>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h2>03 · Real-Time Analytics</h2>
+
+An interactive dashboard for monitoring and visualizing data through dynamic charts, metrics, and APIs.
+
+<br>
+
+<b>Tech Stack</b>
+
+<br><br>
+
+<code>React</code> <code>JavaScript</code> <code>Node.js</code> <code>APIs</code>
+
+<br><br>
+
+<a href="https://github.com/Taman-07/Real_Time_Analytics_Dashboard">
+  <b>→ VIEW PROJECT</b>
+</a>
+
+</td>
+
+<td width="50%">
+
+<h2>04 · Nivesh</h2>
+
+A personal finance application designed to help users track expenses, understand spending habits, and manage their finances effectively.
+
+<br>
+
+<b>Tech Stack</b>
+
+<br><br>
+
+<code>React</code> <code>JavaScript</code> <code>Node.js</code> <code>MongoDB</code>
+
+<br><br>
+
+<a href="https://github.com/Taman-07/Nivesh-Project">
+  <b>→ VIEW PROJECT</b>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<h1 align="center">Tech Stack</h1>
+
+<h2 align="center">Languages</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp" height="55">
 </p>
 
----
+<h2 align="center">Frontend</h2>
 
-<h3>03 • Real-Time Analytics Dashboard</h3>
-
-An interactive dashboard for monitoring and visualizing data through dynamic charts, metrics, and analytics.
-
-**Tech Stack:** React • JavaScript • Node.js • APIs
-
-<p>
-  <a href="https://github.com/Taman-07/Real_Time_Analytics_Dashboard">
-    <b>View Project →</b>
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" height="55">
 </p>
 
----
+<h2 align="center">Backend</h2>
 
-<h3>04 • Nivesh</h3>
-
-A personal finance application designed to help users track expenses, understand spending habits, and manage their finances more effectively.
-
-**Tech Stack:** React • JavaScript • Node.js • MongoDB
-
-<p>
-  <a href="https://github.com/Taman-07/Nivesh-Project">
-    <b>View Project →</b>
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="55">
 </p>
 
----
+<h2 align="center">AI/Machine Learning</h2>
 
-<h2 align="center">TECH STACK</h2>
-
-<h3>Languages</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" height="55">
 </p>
 
-<h3>Frontend</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-</p>
-
-<h3>Backend</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-<h3>AI / Machine Learning</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
-
-<p>
+<p align="center">
   <b>Libraries:</b>
   NumPy • Pandas • Scikit-learn • Matplotlib • OpenCV
 </p>
 
-<h3>Database</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-<h3>Tools</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
-
-
-<h3 align="center">
-  Thanks for visiting my profile!
-</h3>
+<h2 align="center">Database</h2>
 
 <p align="center">
-  <i>Keep learning • Keep building • Keep growing</i>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="55">
+</p>
+
+<h2 align="center">Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="55">
+</p>
+
+
+<p align="center">
+  <b>Thanks for visiting my profile!</b>
+  <br><br>
+  <i>Keep learning • Keep building • Keep growing.</i>
 </p>
