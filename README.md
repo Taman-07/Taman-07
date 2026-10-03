@@ -101,7 +101,28 @@ An interactive dashboard for monitoring and visualizing data through dynamic cha
 
 ---
 
-<h3>04 • Nivesh</h3>
+<h3>04 • Physics Playground</h3>
+
+An interactive computational physics laboratory that helps users explore physics concepts through visual simulations, real-time calculations, and parameter-based experimentation.
+
+<p> <b>Tech Stack:</b> </p>
+
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Canvas_API-000000?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+
+<p>
+  <a href="https://github.com/Taman-07/Physics-Playground">
+    <img src="https://img.shields.io/badge/%20VIEW%20PROJECT-FF4B4B?style=for-the-badge&labelColor=1F1F1F" />
+  </a>
+</p>
+
+---
+
+<h3>05 • Nivesh</h3>
 
 A personal finance application designed to help users track expenses, understand spending habits, and manage their finances more effectively.
 
