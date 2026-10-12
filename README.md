@@ -54,7 +54,30 @@ A YouTube-inspired web streaming platform designed to provide a smooth and inter
 
 ---
 
-<h3>02 • Pair-Up</h3>
+<h3>02 • Mini-DB: SQL-Like Database in C</h3>
+
+A command-line database engine built from scratch in C that parses SQL-style commands and stores data persistently on disk.
+
+<p>
+  <b>Tech Stack:</b>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/File_I/O-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Structures-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CLI-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+
+<p>
+  <a href="https://github.com/Taman-07/Database-Implementation">
+    <img src="https://img.shields.io/badge/%20VIEW%20PROJECT-FF4B4B?style=for-the-badge&labelColor=1F1F1F" />
+  </a>
+</p>
+
+---
+
+<h3>03 • Pair-Up</h3>
 
 A full-stack platform that helps developers discover, connect, and interact with other developers.
 
@@ -78,7 +101,7 @@ A full-stack platform that helps developers discover, connect, and interact with
 
 ---
 
-<h3>03 • Real-Time Analytics Dashboard</h3>
+<h3>04 • Real-Time Analytics Dashboard</h3>
 
 An interactive dashboard for monitoring and visualizing data through dynamic charts, metrics, and analytics.
 
@@ -101,7 +124,7 @@ An interactive dashboard for monitoring and visualizing data through dynamic cha
 
 ---
 
-<h3>04 • Physics Playground</h3>
+<h3>05 • Physics Playground</h3>
 
 An interactive computational physics laboratory that helps users explore physics concepts through visual simulations, real-time calculations, and parameter-based experimentation.
 
@@ -122,7 +145,7 @@ An interactive computational physics laboratory that helps users explore physics
 
 ---
 
-<h3>05 • Nivesh</h3>
+<h3>06 • Nivesh</h3>
 
 A personal finance application designed to help users track expenses, understand spending habits, and manage their finances more effectively.
 
