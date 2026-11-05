@@ -206,12 +206,7 @@ A personal finance application designed to help users track expenses, understand
 <h3>Libraries</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=plotly&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,opencv" />
 </p>
 
 <h3>Database</h3>
