@@ -202,12 +202,11 @@ A personal finance application designed to help users track expenses, understand
 
 </p>
 
+
+<h3>Libraries</h3>
+
 <p>
-
-<b>Libraries:</b>
-
-NumPy • Pandas • Scikit-learn • Matplotlib • OpenCV
-
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,matplotlib,opencv" />
 </p>
 
 <h3>Database</h3>
